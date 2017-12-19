@@ -1,0 +1,25 @@
+#appointment:hover {
+	-fx-background-color: #f9fafc;
+}
+
+#appointment-select {
+	-fx-background-color: #E9EAEE;
+}
+
+#hboxTitle {
+	-fx-border-color: #DADEE1;
+	-fx-border-style: solid outside;
+	-fx-border-width: 1.5;
+}
+
+#vboxBGNOTE {
+	-fx-border-color: #DADEE1;
+	-fx-border-style: solid inside;
+	-fx-border-width: 1.5;
+}
+
+#vboxSearch {
+	-fx-border-color: #DADEE1;
+	-fx-border-style: solid outside;
+	-fx-border-width: 1.5;
+}
